@@ -5,7 +5,6 @@ import * as React from 'react';
 
 const pages = [
   { title: "Product", to: "./product" },
-  { title: "Skill", to: "./skill" },
   { title: "Music", to: "./music" },
 
 ];
